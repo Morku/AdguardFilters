@@ -558,6 +558,8 @@ aparat.cam###adbd
 aparat.cam#%#//scriptlet("set-constant", "cRAdz", "true")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/70660
 @@||arrowos.net/js/blockAdBlock.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/70641
+vanis.io###ab-overlay
 ! https://github.com/AdguardTeam/AdguardFilters/issues/69809
 ||googleads.g.doubleclick.net/pagead/ads$redirect=noopframe,domain=forum.release-apk.com,important
 @@||googleads.g.doubleclick.net/pagead/ads$domain=forum.release-apk.com
